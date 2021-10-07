@@ -54,7 +54,6 @@ class MainActivity : AppCompatActivity() {
         transaction.replace(R.id.parentFL,frag)
         transaction.commit()
 
-
     }
 
 //    fun animalType(Type : String, flag : Int){
